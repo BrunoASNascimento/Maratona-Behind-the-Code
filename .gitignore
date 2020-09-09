@@ -1,3 +1,6 @@
+# Directory
+to_send/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
